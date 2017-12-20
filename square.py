@@ -1,0 +1,11 @@
+import turtle
+turtle.shape("turtle")
+turtle.color('red','blue')
+turtle.forward(100)
+turtle.right(90)
+turtle.forward(100)
+turtle.right(90)
+turtle.forward(100)
+turtle.right(90)
+turtle.forward(100)
+turtle.exitonclick()
